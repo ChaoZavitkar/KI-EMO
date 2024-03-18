@@ -1,7 +1,8 @@
 predmety = {
     "ps5": {"cena": 10000, "vaha": 2},
     "tv": {"cena": 5000, "vaha": 5},
-    "laptop": {"cena": 10000, "vaha": 3},
+    "laptop": {"cena": 10000, "vaha": 5},
+    "monitor": {"cena": 2000, "vaha": 2},
     "konektor": {"cena": 100, "vaha": 1},
     "kabel": {"cena": 100, "vaha": 1},
 }

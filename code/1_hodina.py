@@ -35,4 +35,3 @@ print(gamma(alpha))
 
 alpha_fitness = fitness_function(gamma(alpha), 10)
 print(alpha_fitness)
-
